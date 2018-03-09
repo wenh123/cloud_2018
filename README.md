@@ -40,4 +40,10 @@ results = []
 ```
 
 -----------
-![NKFUST](banner003.jpg "nkust")
+![](banner003.jpg "nkust")
+
+:smile:
+
+:blue_car:
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")

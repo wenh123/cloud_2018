@@ -1,3 +1,5 @@
+[Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+
 # cloud_2018
 ## cloud_2018
 ### cloud_2018
